@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gmail-clone</string>
+    <string name="menu_buscar">Buscar</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_cerrar">Cerrar</string>
+    <string name="menu_volver">Volver</string>
+    <string name="menu_refresh">Volver</string>
+</resources>
